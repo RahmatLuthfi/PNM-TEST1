@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Subjects_subjects-auto-complete__value-_d244cf</name>
+   <tag></tag>
+   <elementGuidId>0d4f10ae-2021-4c8b-953a-eec8a55f463a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subjectsContainer']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.subjects-auto-complete__value-container.subjects-auto-complete__value-container--is-multi.css-1hwfws3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.subjects-auto-complete__value-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8fb8ad43-5119-464e-877e-ff127e8f397d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3</value>
+      <webElementGuid>5de92b09-029a-46c0-8517-3e07f698dc4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control subjects-auto-complete__control--is-focused subjects-auto-complete__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;]</value>
+      <webElementGuid>dbfb99a8-f415-45d1-9e23-d2d207c0eae2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subjectsContainer']/div/div</value>
+      <webElementGuid>25c50eb3-32e1-4dab-bc61-b0b15556a922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/following::div[4]</value>
+      <webElementGuid>701939df-e18e-4341-8daa-6747041f3c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[9]</value>
+      <webElementGuid>2509d8aa-d1b5-4686-a0b0-7a7c2daac184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/preceding::div[6]</value>
+      <webElementGuid>659650b9-4145-4b7f-82d9-5678b7cb6534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/preceding::div[7]</value>
+      <webElementGuid>da177b16-a5c8-4e47-b2ce-a9fb004bcb97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div</value>
+      <webElementGuid>5da03015-4b5d-4544-9b79-a6670d370108</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

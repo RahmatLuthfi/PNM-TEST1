@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Select State_css-19bqh2r</name>
+   <tag></tag>
+   <elementGuidId>4dabd657-2c4b-415e-a125-974cc3d8b883</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select State'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1gtu0rj-indicatorContainer > svg.css-19bqh2r</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#state svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3bc359f5-3ff8-4040-b76e-6389268b3af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>eb6dfda9-757f-4f03-a527-1b1bdf0e8546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>2ba02811-8f70-426e-9a0e-b07c18ceb8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>52d696c1-5bfe-464b-aa81-ec9f73a1d643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a25561c4-91a4-40a8-93da-aa1dde1234f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>819b752d-ba46-46b4-9e27-5c5c180d98cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19bqh2r</value>
+      <webElementGuid>aa778fef-19b1-4783-9e3c-14edcbc23a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;state&quot;)/div[@class=&quot;css-1pahdxg-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-1gtu0rj-indicatorContainer&quot;]/svg[@class=&quot;css-19bqh2r&quot;]</value>
+      <webElementGuid>e0cb4c7a-6c68-4646-98bc-8d2f04d16536</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select State'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>080817ef-89dc-4aa3-b7ec-d553574f6cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>663a852f-317c-4264-9997-0b144ef71e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NCR'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>baf8cd70-30dc-4f57-b9ad-88e3e3e760ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uttar Pradesh'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>bb4aca7f-d9ce-4e80-b56b-27e9bfa047e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select City_css-1gtu0rj-indicatorContainer</name>
+   <tag></tag>
+   <elementGuidId>fe3a43ea-5ea6-4a4d-bcca-7934779579b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='city']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1gtu0rj-indicatorContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-1gtu0rj-indicatorContainer</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>235638b8-3987-432e-ae37-ec6d851354f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>034ecbb3-2c29-44bf-b61d-4d1e8321ebab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1gtu0rj-indicatorContainer</value>
+      <webElementGuid>3c6f074c-86ee-49fc-821b-eae38b2d7f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;city&quot;)/div[@class=&quot;css-1pahdxg-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-1gtu0rj-indicatorContainer&quot;]</value>
+      <webElementGuid>8ee523bb-e706-4a9d-981a-aaaabf4bfac6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='city']/div/div[2]/div</value>
+      <webElementGuid>f999361d-ebe0-4e14-ae64-4649e076f896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select City'])[1]/following::div[5]</value>
+      <webElementGuid>ea9260fd-fb73-4910-b5e6-aafc3c7ca466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NCR'])[1]/following::div[15]</value>
+      <webElementGuid>ec567f85-633a-4ab0-95d0-a1b06815ebed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delhi'])[1]/preceding::div[1]</value>
+      <webElementGuid>4480f0fa-7f30-43fb-b6e5-2190e8656006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gurgaon'])[1]/preceding::div[2]</value>
+      <webElementGuid>7972d63e-91a8-4f31-a54b-c8d82c50d2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+      <webElementGuid>574e732c-2dbd-45bb-8f35-be07307cf9b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+firstName,lastName,userEmail,userNumber
+Rahmat,Luthfi,rahmat@gmail.com,8123456789
+,Luthfi,rahmat@gmail.com,8123456789
+Rahmat,,rahmat@gmail.com,8123456789
+Rahmat,Luthfi,!@#!@#!@#!,8123456789
+Rahmat,Luthfi,rahmat@gmail.com,!@#!@#!@#!
+Rahmat,Luthfi,rahmat@gmail.com,Abcdefghij
+Rahmat,Luthfi,rahmat@gmail.com,
+Rahmat,Luthfi,Abcdefghij,8123456789

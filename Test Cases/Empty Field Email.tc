@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Empty Field Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebca5a68-c47f-4ba3-9ab9-e61020ca3236</testCaseGuid>
+</TestCaseEntity>

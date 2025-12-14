@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Empty Field Gender</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31ebb3ab-5f40-412c-aa10-ab8aa5c14727</testCaseGuid>
+</TestCaseEntity>

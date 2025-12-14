@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDP Test Suites 1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d876c769-603c-4ca1-8e4d-39c44816f3df</testSuiteGuid>
+   <testCaseLink>
+      <guid>f39f1e44-8d25-49a8-b306-486627626e4c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DPP Test Form 1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>76f2dd12-04f6-4bdd-81b0-727236b93efb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DDP Test Data/New Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>76f2dd12-04f6-4bdd-81b0-727236b93efb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstName</value>
+         <variableId>328ed4a7-6691-418e-bd4a-99aeeffba42b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>76f2dd12-04f6-4bdd-81b0-727236b93efb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastName</value>
+         <variableId>6f202ce2-fd73-4892-a304-98fec69b7409</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>76f2dd12-04f6-4bdd-81b0-727236b93efb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userEmail</value>
+         <variableId>1020fe68-11c0-4c7b-a239-a56aeb86070f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>76f2dd12-04f6-4bdd-81b0-727236b93efb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userNumber</value>
+         <variableId>64b3c193-45a4-42a1-b354-7ccae0582d42</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

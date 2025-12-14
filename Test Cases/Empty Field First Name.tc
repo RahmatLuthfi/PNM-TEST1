@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Empty Field First Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f88f03c-36b8-4911-b425-e4d1b22cb53c</testCaseGuid>
+</TestCaseEntity>

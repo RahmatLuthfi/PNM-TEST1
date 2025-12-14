@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Register Practice From</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\DOKUMEN\LAMARAN\Take Home Test.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Katalon</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2025-12-14T08:15:46.112+07:00</taken-date>
+   <column-names/>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "Test Case ID",
+      "checked": false
+    },
+    {
+      "value": "Judul Test Case",
+      "checked": false
+    },
+    {
+      "value": "Test Tyoe",
+      "checked": false
+    },
+    {
+      "value": "Step",
+      "checked": false
+    },
+    {
+      "value": "Test Data",
+      "checked": false
+    },
+    {
+      "value": "Actual Result",
+      "checked": false
+    },
+    {
+      "value": "Expected Result",
+      "checked": false
+    },
+    {
+      "value": "Status",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC01",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form",
+      "checked": false
+    },
+    {
+      "value": "Positive",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Input Last Name\n6. Input Email\n7. Choose Gender\n8. Input Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name : Luthfi\nEmail : Rahmat@gmail.com\nGender : Male\nMobile : 081234567890\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Click Submit",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC02",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Empty Field First Name",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Empty First Name\n5. Input Last Name\n6. Input Email\n7. Choose Gender\n8. Input Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name :\nLast Name : Luthfi\nEmail : Rahmat@gmail.com\nGender : Male\nMobile : 081234567890\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Empty First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field First Name",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Empty First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field First Name",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC03",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Empty Field Last Name",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Empty Last Name\n6. Input Email\n7. Choose Gender\n8. Input Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name :\nEmail : Rahmat@gmail.com\nGender : Male\nMobile : 081234567890\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Empty Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Last Name",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Empty Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Last Name",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC04",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Empty Field Email",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Input Last Name\n6. Empty Email\n7. Choose Gender\n8. Input Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name : Luthfi\nEmail : \nGender : Male\nMobile : 081234567890\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Empty Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Email",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Empty Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Email",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC05",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Input Alfabet in Field Mobile ",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Input Last Name\n6. Input Email\n7. Choose Gender\n8. Input Mobile with Alfabet\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name : Luthfi\nEmail : Rahmat@gmail.com\nGender : Male\nMobile : abcdefghij\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile with Alfabet\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Input Mobile with Alfabet\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC06",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Empty Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Input Last Name\n6. Input Email\n7. Choose Gender\n8. Empty Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name : Luthfi\nEmail : Rahmat@gmail.com\nGender : Male\nMobile : \nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Empty Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Choose Gender\n8. Successfully Empty Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC07",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Empty Field Gender",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Input Last Name\n6. Input Email\n7. Empty Gender\n8. Input Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name : Luthfi\nEmail : Rahmat@gmail.com\nGender : \nMobile : 081234567890\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Empty Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email\n7. Successfully Empty Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Mobile",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "TC08",
+      "checked": false
+    },
+    {
+      "value": "Register Practice Form with Input Symbol in Field Email",
+      "checked": false
+    },
+    {
+      "value": "Negative",
+      "checked": false
+    },
+    {
+      "value": "1. Open Dashboard TOOLSQA\n2. Click Menu Form\n3. Click Submenu Practice Form\n4. Input First Name\n5. Input Last Name\n6. Input Email with Symbol\n7. Choose Gender\n8. Input Mobile\n9. Choose Date of Birth\n10. Input Subject\n11. Choose Hobbies\n12. Upload Picture\n13. Input Current Address\n14. Input State and City\n15. Click Submit",
+      "checked": false
+    },
+    {
+      "value": "Name : Rahmat\nLast Name : Luthfi\nEmail : !@#!@#!@#\nGender : Male\nMobile : 081234567890\nDate of Birth : 1 Jan 1999\nSubject : Arts\nHobbies : Sports\nPicture : Picture.jpg\nCurrent Address : Setiabudi\nState an City : Jakarta Selatan",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email with Symbol\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Email",
+      "checked": false
+    },
+    {
+      "value": "1. Successfully Open Dashboard TOOLSQA\n2. Successfully Click Menu Form\n3. Successfully Click Submenu Practice Form\n4. Successfully Input First Name\n5. Successfully Input Last Name\n6. Successfully Input Email with Symbol\n7. Successfully Choose Gender\n8. Successfully Input Mobile\n9. Successfully Choose Date of Birth\n10. Successfully Input Subject\n11. Successfully Choose Hobbies\n12. Successfully Upload Picture\n13. Successfully Input Current Address\n14. Successfully Input State and City\n15. Successfully Show Alert in Field Email",
+      "checked": false
+    },
+    {
+      "value": "Passed",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
