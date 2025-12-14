@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "ad2e9e34-ac69-4504-b69c-57a23675b40f",
+		"name": "TC12 Invalid Status NEGATIVE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26426910",
+		"_collection_link": "https://www.postman.com/warped-station-759745/workspace/api-pnm/collection/26426910-ad2e9e34-ac69-4504-b69c-57a23675b40f?action=share&source=collection_link&creator=26426910"
+	},
+	"item": [
+		{
+			"name": "Status Tidak Valid",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

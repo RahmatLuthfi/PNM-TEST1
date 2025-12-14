@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "994f821f-a5cf-4245-be72-05004fc60ed5",
+		"name": "TC07 Add Chained Pet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26426910",
+		"_collection_link": "https://www.postman.com/warped-station-759745/workspace/api-pnm/collection/26426910-994f821f-a5cf-4245-be72-05004fc60ed5?action=share&source=collection_link&creator=26426910"
+	},
+	"item": [
+		{
+			"name": "Add Pet",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"let randomId = Math.floor(Math.random() * 1000000);\r",
+							"pm.environment.set(\"petId\", randomId);\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Add pet success\", () => {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"let json = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Pet ID correct\", () => {\r",
+							"    pm.expect(json.id).to.eql(pm.environment.get(\"petId\"));\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Pet status is available\", () => {\r",
+							"    pm.expect(json.status).to.eql(\"available\");\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": {{petId}},\r\n  \"name\":\"PetChaining\",\r\n  \"status\":\"available\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://petstore.swagger.io/v2/pet/",
+					"protocol": "https",
+					"host": [
+						"petstore",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"v2",
+						"pet",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
