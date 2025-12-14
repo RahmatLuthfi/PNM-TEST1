@@ -11,3 +11,5 @@ Reports\20251214_184557\DDP Test\DDP Test Suites 1
 Data Files/DDP Test Data - New test Data
 File New test Data excel tempate ada di File Test Data, 
 Test Data=>Take Home Test(Sheet1).csv
+
+Maaf Mas, Saya Hanya Bisa Upload by File .rar , Untuk Upload Folder Selalu di Hide
