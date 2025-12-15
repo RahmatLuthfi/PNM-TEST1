@@ -1,3 +1,6 @@
+# PNM TEST API
+
+##Local Description
 **Requirement**
 Local OS Windows 11 64bit
 Katalon version 10.4.2.0
@@ -15,3 +18,5 @@ Data Files/DDP Test Data - New test Data
 File New test Data excel tempate ada di File Test Data, 
 Test Data=>Take Home Test(Sheet1).csv
 
+## GitHub Description
+Note : Untuk Melihat Filenya, Bisa Ubah Main Menjadi Katalon/Postman
