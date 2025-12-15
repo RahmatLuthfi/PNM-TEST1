@@ -1,18 +1,17 @@
 **Requirement**
-Local OS Windows 10 64bit
-Katalon version 10.4.1.0
-Browser Chrome 142.0.7444.175
+Local OS Windows 11 64bit
+Katalon version 10.4.2.0
+Browser Chrome Version 143.0.7499.110
 
 **Cara Menjalankan**
 Import project ke Katalon Studio
-Buka Test Suites → Test_Scenario001-PNM
+Buka Test Suites → DDP Test - DDP Test Suites 1
 Klik Run
 
-Report PDF & XML otomatis muncul di folder Reports:
-Reports/20251130_170203/Test_Scenario001-PNM
+Report PDF \& XML otomatis muncul di folder Reports:
+Reports\\20251214\_184557\\DDP Test\\DDP Test Suites 1
+Data Files/DDP Test Data - New test Data
 
-Data driven menggunakan file:
-Data Files/DDT_PNM
+File New test Data excel tempate ada di File Test Data, 
+Test Data=>Take Home Test(Sheet1).csv
 
-File DDT excel tempate ada di File Test Data, akun saya gapunya licensi pakk kaum giveaway wkwk
-Test Data=>DDT.PNM.xlsx
